@@ -7,14 +7,14 @@
         <hint>Control, register and scheduling of corporate events.</hint>
         <name/>
         <order/>
-        <roles>admin</roles>
+        <roles>admin,x_snc_event_regist.managers,x_snc_event_regist.requesters</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-10-30 17:25:15</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2685ab31c321121086407a94e4013124</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Event Registration</sys_name>
         <sys_overrides/>
         <sys_package display_value="Event Registration" source="x_snc_event_regist">d54423b1c321121086407a94e40131f6</sys_package>
@@ -22,7 +22,7 @@
         <sys_scope display_value="Event Registration">d54423b1c321121086407a94e40131f6</sys_scope>
         <sys_update_name>sys_app_application_2685ab31c321121086407a94e4013124</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-10-30 17:25:15</sys_updated_on>
+        <sys_updated_on>2024-10-31 02:59:20</sys_updated_on>
         <title>Event Registration</title>
         <view_name/>
     </sys_app_application>
