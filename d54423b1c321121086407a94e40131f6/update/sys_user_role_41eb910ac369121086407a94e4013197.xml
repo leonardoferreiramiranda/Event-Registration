@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Users with permission to manage events and registrations/registrations for events.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_event_regist.managers</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>managers</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-31 02:02:48</sys_created_on>
+        <sys_id>41eb910ac369121086407a94e4013197</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_event_regist.managers</sys_name>
+        <sys_package display_value="Event Registration" source="x_snc_event_regist">d54423b1c321121086407a94e40131f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">d54423b1c321121086407a94e40131f6</sys_scope>
+        <sys_update_name>sys_user_role_41eb910ac369121086407a94e4013197</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-31 02:02:48</sys_updated_on>
+    </sys_user_role>
+</record_update>
