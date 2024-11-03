@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal">
+    <sp_portal action="DELETE">
+        <alternate_portal/>
+        <css_variables/>
+        <dark_theme/>
+        <default>false</default>
+        <enable_ais>true</enable_ais>
+        <enable_certificate_based_authentication>false</enable_certificate_based_authentication>
+        <enable_favorites>true</enable_favorites>
+        <hide_portal_name>false</hide_portal_name>
+        <homepage display_value="ec_home">3cd32c40c7a83110b1c6677703c26062</homepage>
+        <icon/>
+        <inactive>false</inactive>
+        <kb_knowledge_base/>
+        <kb_knowledge_page display_value="esc_knowledge_home">f8b574a0b7202300d0ac9277ee11a91d</kb_knowledge_page>
+        <login_page display_value="login">6995a144cb11120000f8d856634c9c25</login_page>
+        <logo>a417a80383651210fd2fccb6feaad367</logo>
+        <notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page>
+        <quick_start_config>[{"favorite":{"icon_checked":"fa-heart","icon_unchecked":"fa-heart-o","color":"primary"}}]</quick_start_config>
+        <rtl_enabled>false</rtl_enabled>
+        <sc_catalog/>
+        <sc_catalog_page display_value="esc_sc_category">c221e520b7602300d0ac9277ee11a960</sc_catalog_page>
+        <sc_category_page/>
+        <search_application display_value="ESC Portal Default Search Application">7296910f53171010069addeeff7b12e7</search_application>
+        <search_results_configuration display_value="ESC Portal Search">9264a1c353571010069addeeff7b121e</search_results_configuration>
+        <sp_chat_queue/>
+        <sp_rectangle_menu display_value="Employee Center Menu">493d01365368301056c1ddeeff7b1207</sp_rectangle_menu>
+        <sys_class_name>sp_portal</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 00:45:28</sys_created_on>
+        <sys_id>5017a80383651210fd2fccb6feaad34e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Employee Center Default</sys_name>
+        <sys_package display_value="Event Registration" source="x_snc_event_regist">d54423b1c321121086407a94e40131f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">d54423b1c321121086407a94e40131f6</sys_scope>
+        <sys_update_name>sp_portal_5017a80383651210fd2fccb6feaad34e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 00:45:29</sys_updated_on>
+        <theme display_value="EC Theme">9b6f06d71bb8f85047582171604bcb9c</theme>
+        <title>Employee Center Default</title>
+        <ts_index_group display_value="portal_index_group">2c3e7d1513c93300e618bfd63244b0d7</ts_index_group>
+        <url_suffix>esc_default</url_suffix>
+    </sp_portal>
+    <sys_translated_text action="DELETE" query="documentkey=5017a80383651210fd2fccb6feaad34e"/>
+    <sys_attachment action="DELETE">
+        <average_image_color/>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/svg+xml</content_type>
+        <file_name>logo</file_name>
+        <hash/>
+        <image_height/>
+        <image_width/>
+        <size_bytes>6428</size_bytes>
+        <size_compressed>2429</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 00:45:29</sys_created_on>
+        <sys_id>a417a80383651210fd2fccb6feaad367</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 00:45:29</sys_updated_on>
+        <table_name>ZZ_YYsp_portal</table_name>
+        <table_sys_id>5017a80383651210fd2fccb6feaad34e</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="DELETE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="a417a80383651210fd2fccb6feaad367">a417a80383651210fd2fccb6feaad367</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 00:45:29</sys_created_on>
+        <sys_id>2417a80383651210fd2fccb6feaad368</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="DELETE">
+        <data>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</data>
+        <length>3228</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="a417a80383651210fd2fccb6feaad367">a417a80383651210fd2fccb6feaad367</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 00:45:29</sys_created_on>
+        <sys_id>6c17a80383651210fd2fccb6feaad367</sys_id>
+    </sys_attachment_doc>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Event Registration">d54423b1c321121086407a94e40131f6</application>
+        <file_path/>
+        <instance_id>0d47415c1bc6b9546a85eb9b2d4bcb12</instance_id>
+        <instance_name>dev189641</instance_name>
+        <name>sp_portal_5017a80383651210fd2fccb6feaad34e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_portal"><sp_portal action="INSERT_OR_UPDATE"><alternate_portal/><css_variables/><dark_theme/><default>false</default><enable_ais>true</enable_ais><enable_certificate_based_authentication>false</enable_certificate_based_authentication><enable_favorites>true</enable_favorites><hide_portal_name>false</hide_portal_name><homepage display_value="ec_home">3cd32c40c7a83110b1c6677703c26062</homepage><icon/><inactive>false</inactive><kb_knowledge_base/><kb_knowledge_page display_value="esc_knowledge_home">f8b574a0b7202300d0ac9277ee11a91d</kb_knowledge_page><login_page display_value="login">6995a144cb11120000f8d856634c9c25</login_page><logo>a417a80383651210fd2fccb6feaad367</logo><notfound_page display_value="404">3c2c9063cb11020000f8d856634c9c1f</notfound_page><quick_start_config>[{"favorite":{"icon_checked":"fa-heart","icon_unchecked":"fa-heart-o","color":"primary"}}]</quick_start_config><rtl_enabled>false</rtl_enabled><sc_catalog/><sc_catalog_page display_value="esc_sc_category">c221e520b7602300d0ac9277ee11a960</sc_catalog_page><sc_category_page/><search_application display_value="ESC Portal Default Search Application">7296910f53171010069addeeff7b12e7</search_application><search_results_configuration display_value="ESC Portal Search">9264a1c353571010069addeeff7b121e</search_results_configuration><sp_chat_queue/><sp_rectangle_menu display_value="Employee Center Menu">493d01365368301056c1ddeeff7b1207</sp_rectangle_menu><sys_class_name>sp_portal</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-03 00:45:28</sys_created_on><sys_id>5017a80383651210fd2fccb6feaad34e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Employee Center Default</sys_name><sys_package display_value="Event Registration" source="x_snc_event_regist">d54423b1c321121086407a94e40131f6</sys_package><sys_policy/><sys_scope display_value="Event Registration">d54423b1c321121086407a94e40131f6</sys_scope><sys_update_name>sp_portal_5017a80383651210fd2fccb6feaad34e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-03 00:45:29</sys_updated_on><theme display_value="EC Theme">9b6f06d71bb8f85047582171604bcb9c</theme><title>Employee Center Default</title><ts_index_group display_value="portal_index_group">2c3e7d1513c93300e618bfd63244b0d7</ts_index_group><url_suffix>esc_default</url_suffix></sp_portal><sys_translated_text action="delete_multiple" query="documentkey=5017a80383651210fd2fccb6feaad34e"/><sys_attachment action="INSERT_OR_UPDATE"><average_image_color/><chunk_size_bytes>734003</chunk_size_bytes><compressed>true</compressed><content_type>image/svg+xml</content_type><file_name>logo</file_name><hash/><image_height/><image_width/><size_bytes>6428</size_bytes><size_compressed>2429</size_compressed><state>available</state><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-03 00:45:29</sys_created_on><sys_id>a417a80383651210fd2fccb6feaad367</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-03 00:45:29</sys_updated_on><table_name>ZZ_YYsp_portal</table_name><table_sys_id>5017a80383651210fd2fccb6feaad34e</table_sys_id></sys_attachment><sys_attachment_doc action="INSERT_OR_UPDATE"><data>H4sIAAAAAAAAAA==</data><length>16</length><position>0</position><sys_attachment display_value="logo" sys_id="a417a80383651210fd2fccb6feaad367">a417a80383651210fd2fccb6feaad367</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-03 00:45:29</sys_created_on><sys_id>2417a80383651210fd2fccb6feaad368</sys_id></sys_attachment_doc><sys_attachment_doc action="INSERT_OR_UPDATE"><data>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</data><length>3228</length><position>1</position><sys_attachment display_value="logo" sys_id="a417a80383651210fd2fccb6feaad367">a417a80383651210fd2fccb6feaad367</sys_attachment><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-03 00:45:29</sys_created_on><sys_id>6c17a80383651210fd2fccb6feaad367</sys_id></sys_attachment_doc></record_update>]]></payload>
+        <payload_hash>0</payload_hash>
+        <record_name>Employee Center Default</record_name>
+        <reverted_from/>
+        <source>c2ec0bb283a51210fd2fccb6feaad3e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 00:45:29</sys_created_on>
+        <sys_id>a017a80383651210fd2fccb6feaad36c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192ef7bee350000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 00:45:29</sys_updated_on>
+        <type>Service Portal</type>
+        <update_guid>2817a803ce6512107cc5fad4b0b2366b</update_guid>
+        <update_guid_history>2817a803ce6512107cc5fad4b0b2366b:-2126828682,a017a803b5651210920e48d299b82466:205976269</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Employee Center Default">6238208383651210fd2fccb6feaad39b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 00:50:32</sys_created_on>
+        <sys_db_object display_value="" name="sp_portal">sp_portal</sys_db_object>
+        <sys_id>33eedbfd649d40608833031ff951e640</sys_id>
+        <sys_metadata>5017a80383651210fd2fccb6feaad34e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Center Default</sys_name>
+        <sys_package display_value="Event Registration" source="x_snc_event_regist">d54423b1c321121086407a94e40131f6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">d54423b1c321121086407a94e40131f6</sys_scope>
+        <sys_scope_delete display_value="">6a0be74cb4144035b9253f1435b30d19</sys_scope_delete>
+        <sys_update_name>sp_portal_5017a80383651210fd2fccb6feaad34e</sys_update_name>
+        <sys_update_version display_value="sp_portal_5017a80383651210fd2fccb6feaad34e">a017a80383651210fd2fccb6feaad36c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 00:50:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
