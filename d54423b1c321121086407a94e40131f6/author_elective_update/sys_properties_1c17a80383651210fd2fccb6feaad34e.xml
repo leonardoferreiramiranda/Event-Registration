@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description>If true, portal css would be in rem units</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.service_portal.resize_text.esc_default.enable_rem_conversion</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 00:45:28</sys_created_on>
+        <sys_id>1c17a80383651210fd2fccb6feaad34e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.service_portal.resize_text.esc_default.enable_rem_conversion</sys_name>
+        <sys_package display_value="Event Registration" source="x_snc_event_regist">d54423b1c321121086407a94e40131f6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">d54423b1c321121086407a94e40131f6</sys_scope>
+        <sys_update_name>sys_properties_1c17a80383651210fd2fccb6feaad34e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 00:45:28</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=1c17a80383651210fd2fccb6feaad34e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Event Registration">d54423b1c321121086407a94e40131f6</application>
+        <file_path/>
+        <instance_id>0d47415c1bc6b9546a85eb9b2d4bcb12</instance_id>
+        <instance_name>dev189641</instance_name>
+        <name>sys_properties_1c17a80383651210fd2fccb6feaad34e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>If true, portal css would be in rem units</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>glide.service_portal.resize_text.esc_default.enable_rem_conversion</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-03 00:45:28</sys_created_on><sys_id>1c17a80383651210fd2fccb6feaad34e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>glide.service_portal.resize_text.esc_default.enable_rem_conversion</sys_name><sys_package display_value="Event Registration" source="x_snc_event_regist">d54423b1c321121086407a94e40131f6</sys_package><sys_policy/><sys_scope display_value="Event Registration">d54423b1c321121086407a94e40131f6</sys_scope><sys_update_name>sys_properties_1c17a80383651210fd2fccb6feaad34e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-03 00:45:28</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=1c17a80383651210fd2fccb6feaad34e"/></record_update>]]></payload>
+        <payload_hash>1594479816</payload_hash>
+        <record_name>glide.service_portal.resize_text.esc_default.enable_rem_conversion</record_name>
+        <reverted_from/>
+        <source>c2ec0bb283a51210fd2fccb6feaad3e7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 00:45:29</sys_created_on>
+        <sys_id>6817a80383651210fd2fccb6feaad353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>192ef7beceb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 00:45:29</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>6c17a803e9651210dee89e13e30ead52</update_guid>
+        <update_guid_history>6c17a803e9651210dee89e13e30ead52:1594479816</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-03 00:50:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>0158d72e4e4e4640800253b5b0ce1000</sys_id>
+        <sys_metadata>1c17a80383651210fd2fccb6feaad34e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.service_portal.resize_text.esc_default.enable_rem_conversion</sys_name>
+        <sys_package display_value="Event Registration" source="x_snc_event_regist">d54423b1c321121086407a94e40131f6</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">d54423b1c321121086407a94e40131f6</sys_scope>
+        <sys_scope_delete display_value="">6a0be74cb4144035b9253f1435b30d19</sys_scope_delete>
+        <sys_update_name>sys_properties_1c17a80383651210fd2fccb6feaad34e</sys_update_name>
+        <sys_update_version display_value="sys_properties_1c17a80383651210fd2fccb6feaad34e">6817a80383651210fd2fccb6feaad353</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-03 00:50:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
